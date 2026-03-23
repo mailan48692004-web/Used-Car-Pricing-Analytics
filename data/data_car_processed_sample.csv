@@ -1,0 +1,100 @@
+rowID,region,listing_price,model_year,maker,vehicle_model,vehicle_condition,engine_cylinders,fuel_type,mileage,title_status,transmission,drivetrain,vehicle_size,vehicle_type,exterior_color,state,posting_date
+B2F4A9E7,baltimore,11000,2001.0,bmw,740i,excellent,8.0,gas,145100.0,clean,automatic,rwd,full-size,sedan,silver,md,4/15/2021
+A7485BB3,stockton,11900,2015.0,kia,optima,excellent,4.0,gas,80000.0,clean,automatic,fwd,mid-size,sedan,custom,ca,4/26/2021
+68460D72,treasure coast,7499,2012.0,volkswagen,sport cc,excellent,4.0,gas,129000.0,clean,manual,fwd,mid-size,coupe,black,fl,4/4/2021
+F20B7AAD,stockton,20999,2014.0,mercedes-benz,gl-class,excellent,8.0,gas,115901.0,clean,automatic,4wd,full-size,SUV,blue,ca,4/12/2021
+5672844E,nashville,9995,2010.0,honda,pilot,excellent,6.0,gas,175215.0,clean,automatic,rwd,full-size,SUV,silver,tn,5/4/2021
+961300A7,ithaca,8450,2013.0,nissan,quest sv,excellent,6.0,gas,137642.0,clean,automatic,fwd,full-size,mini-van,black,ny,4/13/2021
+B2776375,york,29995,2013.0,chevrolet,silverado 1500,excellent,8.0,gas,87000.0,clean,automatic,4wd,full-size,pickup,green,pa,5/1/2021
+83520CDC,vermont,22998,2015.0,mercedes-benz,e400 4matic,good,6.0,gas,96665.0,clean,automatic,4wd,mid-size,coupe,black,vt,4/6/2021
+2FDDFA99,minneapolis / st paul,12000,2010.0,gmc,acadia,good,6.0,gas,110655.0,clean,automatic,4wd,mid-size,SUV,silver,mn,5/1/2021
+227A6E3A,green bay,38340,2015.0,ford,f-450,excellent,8.0,diesel,51486.0,rebuilt,automatic,4wd,full-size,truck,white,wi,4/21/2021
+6764EC3E,topeka,10995,2004.0,chevrolet,silverado 1500,excellent,8.0,gas,138233.0,clean,automatic,4wd,full-size,truck,white,ks,4/30/2021
+5E2472E5,lincoln,11900,2015.0,chrysler,town & country touring,good,6.0,gas,104000.0,clean,automatic,fwd,mid-size,mini-van,black,ne,4/29/2021
+C0F9B248,seattle-tacoma,3400,1998.0,cadillac,seville sts,good,8.0,gas,140000.0,clean,automatic,fwd,full-size,sedan,black,wa,5/3/2021
+AEE17D0F,central NJ,2999,2002.0,toyota,avalon,excellent,6.0,gas,179000.0,clean,automatic,fwd,mid-size,sedan,grey,nj,4/30/2021
+5D21EF2E,jacksonville,0,2015.0,acura,rdx,like new,6.0,gas,50000.0,clean,automatic,fwd,mid-size,SUV,white,fl,4/28/2021
+FC91A873,san antonio,33989,2019.0,toyota,tundra sr 4x4,good,8.0,gas,60593.0,clean,automatic,4wd,full-size,pickup,black,tx,4/24/2021
+3BA9C377,reno / tahoe,12999,2015.0,nissan,altima 2.5,like new,4.0,gas,42000.0,rebuilt,automatic,fwd,compact,sedan,silver,ca,4/23/2021
+017BE262,dallas / fort worth,18995,2010.0,ford,super duty f-350 srw,excellent,8.0,diesel,0.0,clean,automatic,4wd,full-size,pickup,white,tx,5/4/2021
+0AB5F1AC,dallas / fort worth,34989,2015.0,chevrolet,tahoe,good,8.0,gas,107830.0,clean,automatic,rwd,full-size,SUV,white,tx,4/30/2021
+8840555B,columbus,9800,2011.0,chevrolet,silverado 2500hd,excellent,8.0,gas,205000.0,clean,automatic,4wd,full-size,truck,white,oh,5/2/2021
+95568493,pensacola,22995,2013.0,chevrolet,silverado 1500,good,8.0,gas,145351.0,clean,automatic,4wd,full-size,truck,silver,fl,4/22/2021
+E9E637EC,pittsburgh,23500,1955.0,ford,thunderbird convertible,good,8.0,gas,42000.0,clean,automatic,rwd,compact,coupe,red,pa,5/1/2021
+A8D7C089,charleston,14296,2008.0,toyota,4runner sr5,like new,6.0,gas,131519.0,clean,automatic,rwd,mid-size,SUV,black,sc,4/27/2021
+F4A42D33,omaha / council bluffs,6300,2008.0,chevrolet,trailblazer lt,like new,6.0,gas,153000.0,rebuilt,automatic,4wd,mid-size,truck,white,ia,4/18/2021
+94E1C720,indianapolis,5500,2010.0,chevrolet,equinox lt,good,4.0,gas,175000.0,clean,automatic,4wd,mid-size,SUV,grey,in,4/27/2021
+141FE943,harrisburg,11450,2012.0,jeep,liberty sport 4x4,excellent,6.0,gas,59996.0,clean,automatic,4wd,mid-size,SUV,silver,pa,4/30/2021
+95195730,st cloud,11976,2017.0,kia,optima lx,excellent,4.0,gas,70247.0,clean,automatic,fwd,mid-size,sedan,silver,mn,4/20/2021
+7CBB7D8B,bend,9500,2004.0,chevrolet,silverado,good,8.0,gas,1950000.0,clean,automatic,4wd,full-size,pickup,black,or,4/22/2021
+668D7F95,"kansas city, MO",16000,2006.0,ram,1500 slt,excellent,8.0,gas,83000.0,clean,automatic,4wd,full-size,pickup,brown,ks,4/29/2021
+3C828E4D,champaign urbana,5450,2011.0,ford,fiesta se,good,4.0,gas,75000.0,clean,manual,fwd,sub-compact,sedan,yellow,il,4/16/2021
+3EAFB19D,raleigh / durham / CH,8900,1994.0,gmc,top kick,good,6.0,diesel,202000.0,clean,automatic,rwd,full-size,truck,yellow,nc,4/19/2021
+7203CC6D,bozeman,16995,2014.0,ford,flex sel awd,like new,6.0,gas,84787.0,clean,automatic,4wd,mid-size,SUV,red,mt,4/23/2021
+3EE85FF1,ventura county,2000,1994.0,nissan,truck,fair,4.0,gas,309000.0,clean,manual,rwd,mid-size,pickup,white,ca,4/21/2021
+8C65BFDE,columbus,8995,2016.0,dodge,dart,excellent,4.0,gas,67562.0,clean,automatic,fwd,mid-size,sedan,white,oh,4/22/2021
+0613ADF4,harrisonburg,2250,2003.0,ford,explorer xlt 4wd,good,4.0,gas,1795320.0,clean,automatic,4wd,full-size,SUV,red,va,5/2/2021
+E21B9EDD,albuquerque,46995,2020.0,chevrolet,silverado 1500 crew 4x4,like new,8.0,gas,5446.0,clean,automatic,4wd,full-size,truck,white,nm,4/21/2021
+B227FD94,greensboro,4900,2007.0,honda,accord sdn lx,good,4.0,gas,188000.0,clean,automatic,fwd,full-size,sedan,blue,nc,4/30/2021
+2AC4FAB8,syracuse,18000,2010.0,ram,2500 crew cab,excellent,8.0,gas,121000.0,clean,automatic,4wd,full-size,truck,black,ny,4/20/2021
+F0DDAA39,hawaii,31995,2016.0,toyota,4runner sr5,good,6.0,gas,73000.0,clean,automatic,fwd,mid-size,SUV,grey,hi,4/30/2021
+CABC29D0,el paso,24999,2020.0,buick,enclave,excellent,6.0,gas,1.0,clean,automatic,fwd,full-size,SUV,black,tx,4/8/2021
+DE94F107,mobile,18999,2010.0,ford,f250 king ranch,excellent,8.0,diesel,264315.0,clean,automatic,4wd,full-size,truck,red,al,4/16/2021
+17D3E450,brownsville,4200,2007.0,jeep,commander 4x4,good,6.0,gas,269000.0,clean,automatic,4wd,mid-size,SUV,grey,tx,4/28/2021
+1D1D2021,east idaho,24900,1970.0,gmc,2500,good,8.0,gas,1000.0,clean,automatic,rwd,full-size,truck,white,id,4/30/2021
+D0AA4410,roanoke,7800,2008.0,rover,hse,like new,8.0,gas,158625.0,clean,automatic,4wd,full-size,SUV,grey,va,4/7/2021
+F7745D78,detroit metro,6700,2010.0,lincoln,mks,good,6.0,gas,145819.0,clean,automatic,fwd,full-size,sedan,white,mi,4/30/2021
+AD36D722,baltimore,5000,2008.0,mercedes-benz,benz c300,like new,6.0,gas,203000.0,clean,automatic,fwd,mid-size,sedan,brown,md,4/9/2021
+08138043,wichita,6000,2015.0,chrysler,200c,good,6.0,gas,94141.0,salvage,automatic,fwd,full-size,sedan,black,ks,4/23/2021
+30DF2EF6,cedar rapids,7995,2013.0,kia,soul,good,4.0,gas,93629.0,clean,automatic,fwd,full-size,SUV,silver,ia,4/5/2021
+1BEB60BB,charlottesville,13599,2014.0,kia,sorento,excellent,6.0,gas,111542.0,clean,automatic,4wd,full-size,SUV,grey,va,4/14/2021
+BE1F81A2,los angeles,7500,2004.0,gmc,serria,excellent,8.0,gas,136000.0,clean,automatic,fwd,full-size,truck,brown,ca,5/3/2021
+63018AAC,vermont,15995,2016.0,toyota,prius 2 hybrid,like new,4.0,hybrid,42582.0,clean,automatic,fwd,compact,hatchback,silver,vt,4/12/2021
+7F2E5A7C,san antonio,7999,2009.0,ford,econoline,good,8.0,gas,241023.0,clean,automatic,rwd,full-size,wagon,white,tx,5/1/2021
+9E08EFF2,south florida,4790,2006.0,toyota,tundra,good,6.0,gas,300300.0,clean,automatic,rwd,full-size,truck,white,fl,5/4/2021
+0044D72A,maine,14000,1957.0,ford,fairlane 500,good,8.0,gas,33000.0,missing,automatic,rwd,full-size,sedan,custom,me,5/2/2021
+D74E1FC0,phoenix,17995,2015.0,toyota,tacoma,excellent,4.0,gas,134688.0,clean,automatic,rwd,mid-size,pickup,white,az,5/4/2021
+C861C249,ventura county,5995,2012.0,chevrolet,cruze,excellent,4.0,gas,120220.0,clean,automatic,fwd,compact,sedan,blue,ca,4/12/2021
+9FB89862,humboldt county,22995,2019.0,nissan,altima 2.5 sl,like new,4.0,gas,38887.0,clean,automatic,fwd,mid-size,sedan,grey,ca,4/17/2021
+994D7EA2,south jersey,9395,2012.0,kia,forte,excellent,4.0,gas,104000.0,clean,automatic,fwd,mid-size,sedan,white,nj,4/16/2021
+6F02D1EE,new haven,12495,2015.0,chrysler,town & country,like new,6.0,gas,80994.0,clean,automatic,fwd,full-size,mini-van,white,ct,5/3/2021
+7C9BFEF2,columbus,5495,2003.0,acura,tl,excellent,6.0,gas,128532.0,clean,automatic,fwd,mid-size,sedan,black,oh,4/16/2021
+90CDC6BC,spokane / coeur d'alene,36860,2016.0,toyota,tacoma trd sport,excellent,6.0,gas,51565.0,clean,automatic,4wd,mid-size,truck,white,id,4/30/2021
+FB22E411,treasure coast,12275,2012.0,toyota,prius,excellent,4.0,hybrid,81725.0,clean,automatic,fwd,mid-size,hatchback,grey,fl,4/20/2021
+B8476332,detroit metro,8999,2013.0,ford,escape titanium awd,excellent,4.0,gas,126365.0,clean,automatic,4wd,compact,SUV,white,mi,5/1/2021
+8E212BE3,college station,15500,2014.0,mazda,miata club,excellent,4.0,gas,60000.0,clean,automatic,rwd,compact,convertible,white,tx,4/21/2021
+F5FD0AFE,akron / canton,18500,1987.0,chevrolet,camaro,like new,8.0,gas,59000.0,clean,automatic,rwd,mid-size,coupe,yellow,oh,4/30/2021
+CF453DB9,monterey bay,23800,2012.0,chevrolet,silverado,like new,8.0,gas,44000.0,clean,automatic,rwd,full-size,pickup,brown,ca,4/22/2021
+2BC97509,bakersfield,21950,2015.0,toyota,tacoma prerunner,excellent,6.0,gas,112081.0,clean,automatic,rwd,full-size,truck,white,ca,5/1/2021
+1532DFB3,fresno / madera,10450,2010.0,bmw,3-series,excellent,6.0,gas,109805.0,clean,automatic,rwd,compact,sedan,white,ca,4/30/2021
+FF2248FD,merced,16500,2003.0,ford,f250 super duty,good,8.0,diesel,232500.0,clean,automatic,4wd,full-size,truck,brown,ca,4/29/2021
+A38F96DD,columbus,3995,2002.0,honda,accord ex,good,6.0,gas,121124.0,clean,automatic,fwd,compact,sedan,brown,oh,4/16/2021
+19ACA097,albuquerque,2595,2003.0,ford,f-150,excellent,8.0,gas,149055.0,clean,automatic,4wd,full-size,pickup,red,nm,4/21/2021
+B5389B74,south florida,5991,2009.0,honda,civic sdn,excellent,4.0,gas,136888.0,clean,automatic,fwd,sub-compact,sedan,silver,fl,4/29/2021
+7278CA98,chattanooga,29988,2007.0,gmc,c8500,excellent,6.0,diesel,163063.0,clean,automatic,rwd,full-size,truck,white,tn,4/16/2021
+7E1DA146,vermont,14988,2013.0,honda,cr-v,good,4.0,gas,115664.0,clean,automatic,4wd,full-size,SUV,black,vt,4/10/2021
+0780B798,south florida,6599,2014.0,chevrolet,cruze,excellent,4.0,gas,79000.0,clean,manual,fwd,full-size,sedan,white,fl,4/29/2021
+0D3E4975,vermont,22995,2019.0,nissan,altima,excellent,4.0,gas,21392.0,clean,automatic,4wd,mid-size,sedan,silver,vt,4/17/2021
+41AEA0AD,hartford,4999,2012.0,honda,civic coupe ex,like new,4.0,gas,219000.0,clean,automatic,fwd,mid-size,coupe,blue,ct,5/3/2021
+837C0748,sarasota-bradenton,13991,2010.0,ford,expedition,excellent,8.0,gas,109000.0,clean,automatic,4wd,full-size,SUV,black,fl,4/28/2021
+5F26B409,tampa bay area,12700,2004.0,jeep,wrangler se,excellent,4.0,gas,106021.0,clean,manual,4wd,mid-size,offroad,black,fl,5/1/2021
+C2ECA563,kennewick-pasco-richland,11995,2016.0,nissan,altima 2.5 s,like new,4.0,gas,89508.0,clean,automatic,fwd,mid-size,sedan,grey,wa,5/3/2021
+368E889C,chicago,1999,2004.0,nissan,altima,fair,4.0,gas,155000.0,salvage,automatic,fwd,mid-size,sedan,silver,il,4/30/2021
+40FB9C7A,rhode island,10995,2011.0,lexus,es350,excellent,6.0,gas,114000.0,clean,automatic,fwd,mid-size,sedan,grey,ri,4/10/2021
+C7B3775E,greensboro,9200,2003.0,ford,e350,excellent,8.0,gas,82000.0,clean,automatic,rwd,full-size,van,white,nc,4/16/2021
+EC4DE0E4,ithaca,3000,2000.0,subaru,forester,good,4.0,gas,95000.0,clean,manual,fwd,mid-size,other,black,ny,4/25/2021
+9FD646A6,omaha / council bluffs,20999,2009.0,ford,super duty f-350 srw,excellent,8.0,diesel,84954.0,clean,automatic,4wd,full-size,pickup,white,ia,5/4/2021
+D34575D5,stockton,6950,2008.0,nissan,altima,excellent,6.0,gas,100246.0,clean,automatic,fwd,compact,coupe,grey,ca,4/17/2021
+CA12081C,albuquerque,0,2016.0,chevrolet,silverado 1500,good,6.0,gas,105000.0,clean,automatic,rwd,full-size,truck,silver,nm,4/30/2021
+9B136589,raleigh / durham / CH,4450,2010.0,nissan,altima,excellent,4.0,gas,119000.0,rebuilt,automatic,fwd,mid-size,sedan,white,nc,4/16/2021
+3EDFEC72,muskegon,65999,2020.0,chevrolet,silverado 2500hd,good,8.0,gas,49380.0,clean,automatic,4wd,full-size,truck,black,mi,4/6/2021
+88D10B83,orlando,13950,2017.0,toyota,corolla se,like new,4.0,gas,61929.0,clean,automatic,fwd,full-size,sedan,grey,fl,5/2/2021
+5128BDC6,hawaii,47000,2019.0,chevrolet,camaro 2ss,excellent,8.0,gas,7000.0,clean,automatic,rwd,compact,convertible,blue,hi,5/3/2021
+931EEDEA,salem,21908,2019.0,toyota,camry le,excellent,4.0,gas,13165.0,clean,automatic,fwd,mid-size,sedan,white,or,4/27/2021
+9C49DC3A,savannah / hinesville,2500,2003.0,ram,1500,fair,8.0,gas,121111.0,clean,automatic,rwd,compact,truck,custom,ga,4/27/2021
+7B3CA4CB,vermont,27900,2015.0,ford,f-150,excellent,6.0,gas,72928.0,clean,automatic,4wd,mid-size,truck,white,vt,4/20/2021
+3D125E5B,omaha / council bluffs,59990,2017.0,ford,super duty f-550 drw,good,8.0,diesel,31337.0,clean,automatic,4wd,full-size,truck,white,ia,4/23/2021
+BFF8D18F,buffalo,10700,2013.0,chevrolet,equinox,excellent,6.0,gas,61800.0,lien,automatic,fwd,full-size,SUV,grey,ny,5/4/2021
+29735CF5,chico,1000,2003.0,honda,civic hybrid,fair,4.0,gas,105000.0,clean,automatic,fwd,compact,sedan,silver,ca,4/7/2021
+F758F47D,grand rapids,12800,2007.0,cadillac,escalade,good,8.0,gas,109000.0,clean,automatic,4wd,full-size,SUV,white,mi,4/27/2021
+2938D901,lewiston / clarkston,4000,1946.0,ford,f-150,fair,8.0,gas,100000.0,clean,automatic,fwd,full-size,pickup,green,id,4/13/2021
